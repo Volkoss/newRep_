@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7b5b0760-ebdf-4c95-95e9-8f6e0be73647" name="dg-promotion.com" url="http://dg-promotion.com">
+        <fileTransfer host="dg-promotion.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a396c060-3a73-430f-aee1-d34e67aed0cf" name="landing_pages" url="http://lg.apanshin-dev.ru">
+        <fileTransfer host="lg.apanshin-dev.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
